@@ -11,7 +11,8 @@
 ### Install from PyPI
 
 ```
-pip install PyPasser
+chmod +x install.sh
+./install.sh
 ```
 
 ### And for update
