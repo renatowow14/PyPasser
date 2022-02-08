@@ -8,7 +8,7 @@
 
 # Installation
 
-### Install from PyPI
+### Install from Script Install.sh
 
 ```
 chmod +x install.sh
